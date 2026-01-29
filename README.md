@@ -6,8 +6,8 @@ I am a first-year CS master student at Duke University, passionate about using G
 ## 🚀 What I'm Up To
 
 - 🤖 Learning MLOps on [17-445 Machine Learning in Production](https://mlip-cmu.github.io/s2025/)
-- 💻 Building Spring Boot applications with PostgreSQL
-- 💼 Looking for internship role for Summer 2026
+- 💻 Building E-Commerce Spring Boot applications with MySQL
+- 💼 Looking for internship role in GenAI and Software Development for Summer 2026
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmichael-yuan/)
