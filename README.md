@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋 I'm Michael (Wenbo) Yuan</h1>
 
 # 💫 About Me:
-I am a first-year CS master student at Duke University, passionate about using GenAI (mostly agentic systems) to amplify human learning, planning, and decision-making.
+I am a second-year CS master student at Duke University, passionate about using GenAI (mostly agentic systems) to amplify human learning, planning, and decision-making.
 
 ## 🚀 What I'm Up To
 
-- 🤖 Learning MLOps on [17-445 Machine Learning in Production](https://mlip-cmu.github.io/s2025/)
-- 💻 Building E-Commerce Spring Boot applications with MySQL
-- 💼 Looking for internship role in GenAI and Software Development for Summer 2026
+- 🤖 Learning Self-Improving AI Agents on [Stanford CS329A Self-Improving AI Agents]([https://mlip-cmu.github.io/s2025/](https://online.stanford.edu/courses/cs329a-self-improving-ai-agents))
+- 💼 Looking for full-time role in GenAI and Software Engineer for Spring 2027
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmichael-yuan/)
