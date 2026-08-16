@@ -6,7 +6,7 @@ I am a second-year CS master student at Duke University, passionate about using 
 ## 🚀 What I'm Up To
 
 - 🤖 Learning Self-Improving AI Agents on [Stanford CS329A Self-Improving AI Agents]([https://mlip-cmu.github.io/s2025/](https://online.stanford.edu/courses/cs329a-self-improving-ai-agents))
-- 💼 Looking for full-time role in GenAI and Software Engineer for Spring 2027
+- 💼 Looking for full-time role in GenAI and Software Engineer for Summer 2027
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmichael-yuan/)
