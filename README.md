@@ -5,9 +5,9 @@ I am a second-year CS master student at Duke University, passionate about using 
 
 ## 🚀 What I'm Up To
 
-- 📱 Taking [**ECE 590 – Intro Cross Platform Mobile Applications**](https://canvas.duke.edu/courses/80795/modules/items/980072)
-- 📈 Taking [**MATH 585 – Introduction to Algorithmic Trading: Financial Data and Modeling**](https://canvas.duke.edu/courses/82781)
-- 📊 Taking [**IDS 583 – Introduction to Data Science and Quantitative Methods in Risk Management**](https://canvas.duke.edu/courses/84634)
+- 📱 Taking [**ECE 590 – Intro Cross Platform Mobile Applications**](https://ece.duke.edu/academics/undergrad/areas/)
+- 📈 Taking [**MATH 585 – Introduction to Algorithmic Trading: Financial Data and Modeling**](https://math.duke.edu/courses/introduction-algorithmic-trading-financial-data-and-modeling)
+- 📊 Taking [**IDS 583 – Introduction to Data Science and Quantitative Methods in Risk Management**](https://math.duke.edu/courses/introduction-data-science-and-quantitative-methods-risk-management)
 - 💼 Looking for full-time opportunities in **GenAI and Software Engineering** for Winter/Summer 2027
 
 ## 🌐 Connect with me:
