@@ -5,8 +5,10 @@ I am a second-year CS master student at Duke University, passionate about using 
 
 ## 🚀 What I'm Up To
 
-- 🤖 Learning Self-Improving AI Agents on [Stanford CS329A Self-Improving AI Agents]([https://mlip-cmu.github.io/s2025/](https://online.stanford.edu/courses/cs329a-self-improving-ai-agents))
-- 💼 Looking for full-time role in GenAI and Software Engineer for Summer 2027
+- 📱 Taking [**ECE 590 – Intro Cross Platform Mobile Applications**](https://canvas.duke.edu/courses/80795/modules/items/980072)
+- 📈 Taking [**MATH 585 – Introduction to Algorithmic Trading: Financial Data and Modeling**](https://canvas.duke.edu/courses/82781)
+- 📊 Taking [**IDS 583 – Introduction to Data Science and Quantitative Methods in Risk Management**](https://canvas.duke.edu/courses/84634)
+- 💼 Looking for full-time opportunities in **GenAI and Software Engineering** for Winter/Summer 2027
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmichael-yuan/)
