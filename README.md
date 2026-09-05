@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Michael (Wenbo) Yuan</h1>
 
 # 💫 About Me:
-I am a second-year CS master student at Duke University, passionate about using GenAI (mostly agentic systems) to amplify human learning, planning, and decision-making.
+I am a second-year CS master student at Duke University, passionate about building GenAI (mostly agentic systems) to amplify human learning, planning, and decision-making.
 
 ## 🚀 What I'm Up To
 
