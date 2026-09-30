@@ -5,10 +5,6 @@ I'm a Master's student in Computer Science at Duke University, concentrating in 
 
 Most recently, I worked as a Software Engineer Intern on the Generative AI team at Castleton Commodities International (CCI), where I built and launched a distributed scheduled-prompt system for an internal agentic AI platform. My work involved backend services, distributed execution, databases, messaging infrastructure, observability, and AI agent workflows.
 
-I enjoy building software end-to-end — from designing reliable backend systems and APIs to developing AI-powered applications and increasingly working with modern frontend frameworks such as React.
-
-I'm particularly interested in backend engineering, distributed systems, platform/infrastructure, full-stack development, and AI-powered products.
-
 ## 🚀 What I'm Up To
 
 - 📱 Taking [**ECE 590 – Intro Cross Platform Mobile Applications**](https://ece.duke.edu/academics/undergrad/areas/)
