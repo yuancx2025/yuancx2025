@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋 I'm Michael (Wenbo) Yuan</h1>
 
 # 💫 About Me:
-I am a second-year CS master student at Duke University, passionate about building GenAI (mostly agentic systems) to amplify human learning, planning, and decision-making.
+I'm a Master's student in Computer Science at Duke University, concentrating in AI/ML, with experience building production software, distributed systems, and AI infrastructure.
+
+Most recently, I worked as a Software Engineer Intern on the Generative AI team at Castleton Commodities International (CCI), where I built and launched a distributed scheduled-prompt system for an internal agentic AI platform. My work involved backend services, distributed execution, databases, messaging infrastructure, observability, and AI agent workflows.
+
+I enjoy building software end-to-end — from designing reliable backend systems and APIs to developing AI-powered applications and increasingly working with modern frontend frameworks such as React.
+
+I'm particularly interested in backend engineering, distributed systems, platform/infrastructure, full-stack development, and AI-powered products.
 
 ## 🚀 What I'm Up To
 
