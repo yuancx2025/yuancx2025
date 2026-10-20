@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm a Master's student in Computer Science at Duke University, concentrating in AI/ML, with experience building production software, distributed systems, and AI infrastructure.
 
-Most recently, I worked as a Software Engineer Intern on the Generative AI team at Castleton Commodities International (CCI), where I built and launched a distributed scheduled-prompt system for an internal agentic AI platform. My work involved backend services, distributed execution, databases, messaging infrastructure, observability, and AI agent workflows.
+Most recently, I worked as a Software Engineer Intern on the Generative AI team at Castleton Commodities International (CCI) in Houston Texas, where I built and launched a distributed scheduled-prompt system for an internal agentic AI platform. My work involved backend services, distributed execution, databases, messaging infrastructure, observability, and AI agent workflows.
 
 ## 🚀 What I'm Up To
 
