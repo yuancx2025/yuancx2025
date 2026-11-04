@@ -9,7 +9,7 @@ Most recently, I worked as a Software Engineer Intern on the Generative AI team 
 
 - 📱 Taking [**ECE 590 – Intro Cross Platform Mobile Applications**](https://ece.duke.edu/academics/undergrad/areas/)
 - 📈 Taking [**MATH 585 – Introduction to Algorithmic Trading: Financial Data and Modeling**](https://math.duke.edu/courses/introduction-algorithmic-trading-financial-data-and-modeling)
-- 💼 Looking for full-time opportunities in **GenAI and Software Engineering** for Winter/Summer 2027
+- 💼 Looking for full-time opportunities in **GenAI and Software Engineering** for Summer 2027
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wmichael-yuan/)
